@@ -1,0 +1,12 @@
+# 🚩 PicoCTF Solutions
+
+Bu klasör, [picoCTF](https://picoctf.org/) platformunda çözdüğüm soruların teknik analizlerini ve çözüm yöntemlerini içermektedir.
+
+
+---
+
+## 🚀 Faydalı Komutlar & İpuçları
+PicoCTF sorularını çözerken sık kullandığım bazı hızlı komutlar:
+- `strings [dosya_adı] | grep picoCTF`: Dosya içindeki flag'i hızlıca aramak için.
+- `base64 -d`: Base64 şifrelerini çözmek için.
+- `file [dosya_adı]`: Bilinmeyen dosyaların türünü belirlemek için.
